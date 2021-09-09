@@ -1,6 +1,6 @@
 # Virtual Paint using OpenCV
 
-Detects and draws moving objects on a webcam based on their color.
+Detects and draws moving objects (pencils) on a webcam based on their color.
 
 Currently only red and blue pencils are detected.
 
